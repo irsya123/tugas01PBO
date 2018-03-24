@@ -32,6 +32,10 @@ public class Sepatuaksi {
         adidas.ukuran="40";
         adidas.warna="Black";
         adidas.jenis="Sepatu Olahraga";
+        
+        nevada.cetakinfo();
+        nike.cetakinfo();
+        adidas.cetakinfo();
     }
     
 }
