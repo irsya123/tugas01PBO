@@ -11,7 +11,9 @@ package tugas01pbo;
  */
 public class Sepatuaksi {
     public static void main(String[] args) {
-        
+        Sepatu nevada= new Sepatu ();
+        Sepatu nike= new Sepatu ();
+        Sepatu adidas= new Sepatu ();
     }
     
 }
